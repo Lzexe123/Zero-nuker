@@ -56,8 +56,7 @@ ShadowNuker is the future of discord raider bots. In addition to having great ef
 **Support for all peoples [discord server](https://discord.gg/2S5hRh9xGb).**
 
 ## <a id="Preview"></a>📷 » Preview 
-![image](https://i.ibb.co/990JnFY/Sn-mek-obrazovky-3.png)
-![image](https://i.ibb.co/JBGHRGt/Sn-mek-obrazovky-5.png)
+![image]([https://i.ibb.co/990JnFY/Sn-mek-obrazovky-3.png](https://cdn.discordapp.com/attachments/1231688545933066281/1231707546008424479/image.png?ex=6637f00a&is=66257b0a&hm=0863cb2acf907973d6efb1b911442633ebc271921cba1da038609740251ef468&))
 
 **Download it to discover all the features !** 
 
